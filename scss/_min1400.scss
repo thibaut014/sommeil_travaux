@@ -1,0 +1,161 @@
+@media (min-width: 1400px) {
+
+
+
+    #resolution{
+        background-color: green;
+      }
+
+
+    #resolution::after{
+        content: "1400 < XXL";
+      }
+
+
+      .para1{
+        width: 80%;
+        margin-left: 100px;
+      }
+
+
+      .plante_2{
+        margin-left: 1210px;
+      }
+
+      .bloc3{
+
+        h2{
+          text-align: start;
+          margin-left: 120px;
+        }
+
+        .para4{
+          width: 80%;
+          margin-left: 100px;
+        }
+      }
+
+
+      .plante_3{
+        width: 40%;
+        margin-left: 840px;
+      }
+
+      .bloc4{
+        height: 650px;
+
+        h2{
+          text-align: start;
+          margin-left: 120px;
+        }
+      }
+
+      .para6{
+        width: 80%;
+        margin-left: 100px;
+      }
+
+
+      .bloc5{
+        margin-top: 200px;
+      }
+  
+      .photo1{
+  
+        img{
+          margin-left: 80px;
+        }
+      }
+  
+      .photo2{
+  
+        img{
+          margin-left: 60px;
+        }
+      }
+  
+      .photo3{
+  
+        img{
+          margin-left: 60px;
+        }
+      }
+  
+      .photo4{
+  
+        img{
+          margin-left: 80px;
+        }
+      }
+  
+      .photo5{
+  
+        img{
+          margin-left: 60px;
+        }
+      }
+  
+      .photo6{
+  
+        img{
+          margin-left: 60px;
+        }
+      }
+  
+      .appuie{
+        margin-left: 520px;
+      }
+
+
+      .para7{
+        img{
+          margin-top: -100px;
+        }
+      }
+
+
+
+      .bloc6{
+        background-image: url(/img/chat.png);
+        background-repeat: no-repeat;
+        background-position: left 100px bottom -260px;
+      }
+
+
+
+      .para8{
+        width: 70%;
+
+        p{
+          margin-left: 70px;
+          margin-top: -5px;
+        }
+
+        img{
+          margin-left: -80px;
+          margin-top: 10px;
+        }
+      }
+
+
+
+      .para9{
+        img{
+          width: 100%;
+          margin-top: 500px;
+          margin-left: -100px;
+        }
+      }
+
+      .bloc8{
+        p{
+          margin-left: 50px;
+        }
+
+        .sponso3{
+          width: 40%;
+          margin-left: 650px;
+        }
+      }
+
+}

@@ -1,0 +1,19 @@
+@media (min-width: 576px) {
+
+    #resolution{
+        background-color: orange;
+      }
+
+
+    #resolution::after{
+        content: "576 < S";
+      }
+
+    .plante_2{
+      margin-left: 440px;
+    }
+
+    .bloc5{
+      margin-top: 300px;
+    }
+}

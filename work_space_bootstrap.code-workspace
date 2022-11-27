@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+
+		"liveSassCompile.settings.formats": [
+            
+
+            {
+                "format": "expanded",
+                "extensionName": ".min.css",
+                "savePath": "/css"
+            }
+        ],
+		"liveSassCompile.settings.excludeList": [
+			"/scss/bootstrap/**"
+		]
+
+
+
+	}
+}

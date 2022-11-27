@@ -1,0 +1,65 @@
+@media (min-width: 768px) {
+
+
+    #resolution{
+        background-color: red;
+      }
+
+    #resolution::after{
+        content: "768 < M";
+      }
+
+    .plante_2{
+      margin-left: 610px;
+    }
+
+    .bloc5{
+      margin-top: 100px;
+    }
+
+    .photo1{
+
+      img{
+        margin-left: 60px;
+      }
+    }
+
+    .photo2{
+
+      img{
+        margin-left: 50px;
+      }
+    }
+
+    .photo3{
+
+      img{
+        margin-left: 50px;
+      }
+    }
+
+    .photo4{
+
+      img{
+        margin-left: 60px;
+      }
+    }
+
+    .photo5{
+
+      img{
+        margin-left: 50px;
+      }
+    }
+
+    .photo6{
+
+      img{
+        margin-left: 50px;
+      }
+    }
+
+    .appuie{
+      margin-left: 250px;
+    }
+}
